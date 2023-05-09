@@ -1,0 +1,60 @@
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\bin\Debug\net6.0\appsettings.json
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\refint\MoogleServer.dll
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
+D:\Proyecto 1 Moogle\moogle-main\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll
+D:\Moogle entregar\moogle-main\MoogleServer\bin\Debug\net6.0\appsettings.Development.json
+D:\Moogle entregar\moogle-main\MoogleServer\bin\Debug\net6.0\appsettings.json
+D:\Moogle entregar\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+D:\Moogle entregar\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.exe
+D:\Moogle entregar\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.deps.json
+D:\Moogle entregar\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+D:\Moogle entregar\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.dll
+D:\Moogle entregar\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleServer.pdb
+D:\Moogle entregar\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleEngine.dll
+D:\Moogle entregar\moogle-main\MoogleServer\bin\Debug\net6.0\MoogleEngine.pdb
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.dll
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\refint\MoogleServer.dll
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.pdb
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache
+D:\Moogle entregar\moogle-main\MoogleServer\obj\Debug\net6.0\ref\MoogleServer.dll

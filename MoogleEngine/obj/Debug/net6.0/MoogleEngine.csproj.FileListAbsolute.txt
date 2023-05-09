@@ -1,0 +1,24 @@
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+D:\Proyecto 1 Moogle\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+D:\Moogle entregar\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+D:\Moogle entregar\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+D:\Moogle entregar\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll

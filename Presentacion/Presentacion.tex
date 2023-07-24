@@ -1,0 +1,25 @@
+\documentclass{beamer}
+\begin{document}
+\begin{frame}
+Para la realización de este proyecto llamado Moogle!, que consiste en un buscador 
+de texto inteligente, tuve q organizar el trabajo de forma progresiva y eficiente, 
+trazando objetivos q ir cumpliendo paso a paso hasta tenerlo completo. Dicho esto 
+solo tenía que buscar por dónde empezar y, dado q es un procesador de texto, pues 
+lo más inteligente seria cargar y guardar los textos que queremos procesar.
+Para esta primera tarea utilice diccionarios como estructura de datos ya que, dada su 
+versatilidad y funcionamiento facilitarían el trabajo, pero antes cargue y guarde la 
+ruta de los archivos, retire los signos de puntuación innecesarios y normalice los 
+textos.
+Luego cree dos diccionarios, uno para guardar cuantas veces se repite cada palabra 
+en cada texto y otro las veces q se repite cada palabra en general. Para esto utilice 
+una tupla conformada por ambos diccionarios.
+Con esto ya tendría las piezas para implementar el modelo vectorial.
+Mis primeros pasos en la construcción del modelo vectorial fueron la implementación 
+del TF (Term Frecuency) o frecuencia normalizada que consiste en determinar la 
+frecuencia de aparición de una palabra en un texto y dividirla por la frecuencia de la 
+palabra más frecuente en dicho texto y el IDF (Inverse Document Frecuency) dada por 
+el logaritmo del resultado de dividir la cantidad de documentos que estamos 
+procesando entre la cantidad de documentos q aparece la palabra deseada.
+
+\end{frame}
+\end{document}

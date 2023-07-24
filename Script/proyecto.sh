@@ -26,7 +26,7 @@ compile_report()
     echo -e "\e[32m Compiling report \e[0m"
     cd .. 
     cd Informe
-    latexmk -pdf informe.tex
+    latexmk -pdf Informe.tex
     echo "Press Enter to continue"
     read
 }
@@ -46,7 +46,7 @@ show_report()
     echo -e "\e[32m Showing report \e[0m"
     cd ..
     cd Informe
-    xdg-open informe.pdf
+    xdg-open Informe.pdf
     echo "Press Enter to continue"
     read
 }

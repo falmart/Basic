@@ -1,4 +1,4 @@
-
+#!/bin/bash
 while true;
 do
     clear
@@ -46,7 +46,7 @@ show_report()
     echo -e "\e[32m Showing report \e[0m"
     cd ..
     cd Informe
-    start informe.pdf
+    xdg-open informe.pdf
     echo "Press Enter to continue"
     read
 }
@@ -56,7 +56,7 @@ show_slides()
     echo -e "\e[32m Showing slides \e[0m"
     cd ..
     cd Presentacion
-    start Presentacion.pdf
+    xdg-open Presentacion.pdf
     echo "Press Enter to continue"
     read
 }

@@ -15,7 +15,6 @@ run()
 {
     echo -e "\e[32m Launching Moogle \e[0m"
     cd ..
-    cd moogle-main
     dotnet watch run --project MoogleServer
     echo "Press Enter to continue" 
     read
@@ -79,9 +78,6 @@ read option
         "1")
             run
             ;;
-        "6")
-            clean
-            ;;
         "2")
             compile_report
             ;;
@@ -93,6 +89,9 @@ read option
             ;;
         "5")
             show_slides "slides.pdf" 
+            ;;
+        "6")
+            clean
             ;;
         "7")
             echo -e "\e[32m Closing \e[0m"

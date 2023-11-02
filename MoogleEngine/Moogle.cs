@@ -30,10 +30,19 @@ public static class Moogle
 
     //Mostrar el snippet
     public static string Snipet(string path)
-    {       
+    {               
         string readingSnipet = System.IO.File.ReadAllText(path);              
         LoadText.JustText(readingSnipet);
-        int rnvalue = result/20;        
+        int rnvalue = 0;
+        if(readingSnipet.Length>500)
+        {
+            rnvalue = 500;
+        }
+        else
+        {
+            rnvalue=readingSnipet.Length;           
+        }
+              
         return readingSnipet.Substring(0,rnvalue);
     }
 

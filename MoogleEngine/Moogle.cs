@@ -30,19 +30,18 @@ public static class Moogle
 
     //Mostrar el snippet
     public static string Snipet(string path)
-    {               
+    {       
         string readingSnipet = System.IO.File.ReadAllText(path);              
         LoadText.JustText(readingSnipet);
         int rnvalue = 0;
-        if(readingSnipet.Length>500)
+        if (readingSnipet.Length > 500)
         {
             rnvalue = 500;
         }
         else
         {
-            rnvalue=readingSnipet.Length;           
+            rnvalue = readingSnipet.Length;
         }
-              
         return readingSnipet.Substring(0,rnvalue);
     }
 
@@ -72,7 +71,7 @@ public static class Moogle
         for(int i =0;i<results.Count();i++)
         {
             string trueneutral = results[i].Item2;
-            string neutral = results[i].Item2.Substring(40);
+            string neutral = results[i].Item2;
             neutral=neutral.Substring(0,neutral.Length-3);
             double xcore = results[i].Item1;
             items[Count]=new SearchItem(neutral, Snipet(trueneutral), (float)xcore);

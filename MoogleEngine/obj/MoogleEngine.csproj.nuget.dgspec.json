@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Moogle entregar\\moogle-main\\MoogleEngine\\MoogleEngine.csproj": {}
+    "C:\\Ingram\\Moogle Exponer\\Basic-main\\MoogleEngine\\MoogleEngine.csproj": {}
   },
   "projects": {
-    "D:\\Moogle entregar\\moogle-main\\MoogleEngine\\MoogleEngine.csproj": {
+    "C:\\Ingram\\Moogle Exponer\\Basic-main\\MoogleEngine\\MoogleEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Moogle entregar\\moogle-main\\MoogleEngine\\MoogleEngine.csproj",
+        "projectUniqueName": "C:\\Ingram\\Moogle Exponer\\Basic-main\\MoogleEngine\\MoogleEngine.csproj",
         "projectName": "MoogleEngine",
-        "projectPath": "D:\\Moogle entregar\\moogle-main\\MoogleEngine\\MoogleEngine.csproj",
-        "packagesPath": "C:\\Users\\FABIAN\\.nuget\\packages\\",
-        "outputPath": "D:\\Moogle entregar\\moogle-main\\MoogleEngine\\obj\\",
+        "projectPath": "C:\\Ingram\\Moogle Exponer\\Basic-main\\MoogleEngine\\MoogleEngine.csproj",
+        "packagesPath": "C:\\Users\\tempe\\.nuget\\packages\\",
+        "outputPath": "C:\\Ingram\\Moogle Exponer\\Basic-main\\MoogleEngine\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\FABIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tempe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

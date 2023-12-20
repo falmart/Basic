@@ -22,3 +22,58 @@ D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
 D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
 D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
 D:\Moogle entregar\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Ingram\Escuela\Programacion\Moogle Base Referencia\Basic-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Ingram\Escuela\Programacion\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Ingram\Escuela\Exponer\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Ingram\Escuela\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\refint\MoogleEngine.dll
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
+C:\Ingram\Moogle Exponer\Basic-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll

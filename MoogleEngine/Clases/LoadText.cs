@@ -28,7 +28,7 @@ namespace MoogleEngine.Clases
         static public string[] JustText(string RawContent)
         {
             RawContent=RawContent.ToLower();
-            string[] JustText = RawContent.Split(",.; /?><']}|-_=+)(*&^%$#!/*-+`~)".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
+            string[] JustText = RawContent.Split(",.; /?><']}|-_=+)(*&^%$#!/*-+`~\n)".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
             return JustText;
 
         }
